@@ -1,0 +1,3 @@
+src/Api/bin/*
+src/Api/obj/*
+src/Api/.vscode/*
